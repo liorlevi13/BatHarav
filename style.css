@@ -1,0 +1,346 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background-color: #ffffff;
+  width: 961px;
+  height: 930px;
+  position: relative;
+}
+
+.macbook-pro .component {
+  border: 1px solid #FF1606;
+  width: 266px;
+  height: 266px;
+  top: 59px;
+  left: 53px;
+  background-image: url(./img/untitled-artwork-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none;
+}
+
+.macbook-pro .component:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+}
+
+
+.macbook-pro .component-2 {
+  border: 1px solid #FF1606;
+  width: 270px;
+  height: 266px;
+  top: 59px;
+  left: 342px;
+  background-image: url(./img/untitled-artwork-3-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+  user-select: none;
+}
+
+.macbook-pro .component-2:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+}
+
+
+.macbook-pro .component-3 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 266px;
+  top: 59px;
+  left: 639px;
+  background-image: url(./img/untitled-artwork-4.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-3:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+
+}
+
+
+.macbook-pro .component-4 {
+  border: 1px solid #FF1606;
+  width: 266px;
+  height: 266px;
+  top: 351px;
+  left: 53px;
+  background-image: url(./img/untitled-artwork-2-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-4:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+
+}
+
+
+.macbook-pro .component-5 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 269px;
+  top: 350px;
+  left: 342px;
+  background-image: url(./img/untitled-artwork-6-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-5:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+
+}
+
+
+.macbook-pro .component-6 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 269px;
+  top: 350px;
+  left: 639px;
+  background-image: url(./img/untitled-artwork-8-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-6:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+
+}
+
+
+.macbook-pro .text-wrapper-1 {
+  left: 710px;
+  font-family: "Hadassah Friedlaender", Helvetica;
+  font-weight: 700;
+  white-space: nowrap;
+  position: absolute;
+  top: 20px;
+  color: #ff1a0a;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.macbook-pro .text-wrapper-2 {
+  left: 53px;
+  font-family: "Hadassah Friedlaender", Helvetica;
+  font-weight: 400;
+  text-align: left;
+  position: absolute;
+  top: 20px;
+  color: #ff1a0a;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.macbook-pro .component-7 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 269px;
+  top: 643px;
+  left: 639px;
+  background-image: url(./img/comp-3-1-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-7:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+
+}
+
+
+.macbook-pro .component-8 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 269px;
+  top: 643px;
+  left: 53px;
+  background-image: url(./img/untitled-artwork-3-2.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-8:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  color: #FFF;
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+}
+
+
+.macbook-pro .component-9 {
+  border: 1px solid #FF1606;
+  width: 269px;
+  height: 269px;
+  top: 643px;
+  left: 342px;
+  background-image: url(./img/untitled-artwork-4-1.gif);
+  position: absolute;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: transparent; 
+  transition: background-color 1s ease, color 1s ease;
+  user-select: none; 
+}
+
+.macbook-pro .component-9:hover {
+  background-color: red; 
+  background-image: none; 
+  color: white; 
+  color: #FFF;
+  text-align: right;
+  font-family: "Hadassah Friedlaender";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 0 18px;
+  user-select: none;
+}
